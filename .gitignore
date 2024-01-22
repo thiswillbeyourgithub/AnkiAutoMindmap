@@ -1,0 +1,9 @@
+*cache
+OPENAI_API_KEY.txt
+logs
+**pycache**
+logs*
+temp.md
+cheatsheet1.md
+cheatsheet2.md
+diff.diff

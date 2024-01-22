@@ -1,0 +1,12 @@
+ankipandas==0.3.13
+tqdm
+pandas
+numpy
+fire
+bs4
+litellm
+joblib
+scikit-learn
+levenshtein>=0.24.0
+
+patch_ng  # for using unified diffs
