@@ -3,6 +3,9 @@ From an anki tag, create a single file that contains all the information in an i
 
 This is a quick script I made for myself, if you need help or have any question just open an issue.
 
+Here's an example in french about headaches:
+![](./example.jpg)
+
 ## Usage Example
 
 ```bash
